@@ -1,5 +1,5 @@
 # CS255
-
+Students will explore the principles, methods, and techniques used in systems development so that they can create system models using appropriate industry tools. As a part of creating system models, students will also learn to effectively communicate technical concepts and design decisions to various audiences in a professional manner.
 
     Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
       The client, DriverPass, wants to design a system that can provide resources to students to help them better prepare for and pass their driving test. 
