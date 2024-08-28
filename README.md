@@ -11,4 +11,4 @@ Students will explore the principles, methods, and techniques used in systems de
        The user’s and clients’ needs were interpreted from the client meeting transcript, based on this transcript the program was implemented with all of the           client requirements. 
        
     How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
-      By following the processes and using the tools that we learned from our reading I was able to break the project down, making sure that all necessary             components were included
+      By following the processes and using the tools that we learned from our reading I was able to break the project down, making sure that all necessary                 components were included
